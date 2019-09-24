@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20180625_13_22.jpg</filename>
+	<path>../images/20180625_13_22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>195</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>112</ymin>
+			<xmax>208</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

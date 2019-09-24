@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31.jpg</filename>
+	<path>../images/31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>656</width>
+		<height>710</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cellphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>365</ymin>
+			<xmax>177</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>
